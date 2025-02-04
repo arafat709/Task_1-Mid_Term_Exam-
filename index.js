@@ -5,5 +5,4 @@ function startTime() {
         digitalClk.innerHTML = new Date().toLocaleTimeString();
     }, 1000);
 };
-
 startTime();
